@@ -1,0 +1,5 @@
+
+Fecha:10/06/2023 12:06:20--Nombre: luis - Puntos: 17;Nombre: pepe - Puntos: 15
+Fecha:10/06/2023 12:06:35--Nombre: andrea - Puntos: 12;Nombre: ana - Puntos: 17;Nombre: maria - Puntos: 14
+Fecha:10/06/2023 12:07:26--Nombre: luis - Puntos: 17;Nombre: juan - Puntos: 15
+Fecha:20/06/2023 17:47:20--Nombre: miguel - Puntos: 17;Nombre: ana - Puntos: 0;Nombre: luis - Puntos: 19
